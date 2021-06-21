@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaxdev&layout=compact&theme=react" alt="Languages" />
 </p>
-<p align="right">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=renaxdev&show_icons=true&theme=react" alt="Languages" height="160" />
 </p>
 <h1 align="center">🔗Social Media Links: </h1>
