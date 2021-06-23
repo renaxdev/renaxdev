@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, thanks for coming here. I'm Renax</h1>
-<h3 align="center">I am a "developer" if you really wanna call me one, mostly doing Python, Arduino and then some basic Pentesting stuff</h3>
+<h3 align="center">I am a "developer" if you really wanna call me one, mostly doing Python, some Arduino stuff, some IoT stuff with raspberry pis and then some basic Pentesting stuff</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaxdev&layout=compact&theme=react" alt="Languages" />
 </p>
