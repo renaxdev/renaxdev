@@ -10,7 +10,7 @@
 
 - 🤖 Check Out KEKW Discord Bot [Click Here](https://top.gg/bot/827579418045186119#/)
 
-- 🔨 Check out my Instagram and Discord. [Instagram](https://www.instagram.com/renax187/)|[Discord](https://discord.gg/gvujeNYAHQ)
+- 🔨 Check out my Instagram and Discord. [Instagram](https://www.instagram.com/renax187/) | [Discord](https://discord.gg/gvujeNYAHQ)
 
 
 - ✉ Contact Me: [Click Here](https://discord.gg/gvujeNYAHQ)
