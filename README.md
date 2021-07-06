@@ -22,3 +22,5 @@
 
 - ✉ Contact Me: [Click Here](https://discord.gg/gvujeNYAHQ)
 <hr>
+<h3 align="left">🛠Current Projects: </h3>
+-🤖 Virtual AI Assistant 
