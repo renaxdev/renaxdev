@@ -21,13 +21,13 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   
-![Kotlin] (https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)
 
 ## IDEs
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm)
 ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea)
-![Visual Studio] (https://img.shields.io/badge/-Visual_Studio_Code-333333?style=for-the-badge&logo=visualstudio)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=for-the-badge&logo=visualstudio)
 
 ## Editors
 
@@ -75,5 +75,3 @@
 -  My Website: [Click Here](https://renaxdev.tech)
   
 <hr>
-  
-  
