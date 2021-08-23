@@ -47,7 +47,6 @@
 ## Social
 
 ![Discord](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
-![Teamspeak](https://img.shields.io/badge/-Teamspeak-333333?style=for-the-badge&logo=teamspeak)
 ![Instagram](https://img.shields.io/badge/-renax187-333333?style=for-the-badge&logo=instagram)
 ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)
 
