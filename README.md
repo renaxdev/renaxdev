@@ -27,7 +27,7 @@
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm)
 ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=for-the-badge&logo=visualstudio)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=for-the-badge&logo=visualstudio)
 
 ## Editors
 
