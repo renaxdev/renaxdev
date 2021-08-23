@@ -58,11 +58,6 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=for-the-badge&logo=kalilinux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
 
-## GitHub
-
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Feluxerich&theme=vue-dark)
-![GH Stats](https://github-readme-stats.vercel.app/api?username=Feluxerich&theme=vue-dark&show_icons=true&count_private=true)
-
 <h3 align="left">🔗Social Media Links: </h3>
 
 - 🤖 Check Out KEKW Discord Bot [Click Here](https://top.gg/bot/827579418045186119#/)
