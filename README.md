@@ -10,9 +10,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="renaxdev" /> </p>
 
-## Languages
+## Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 ![DiscordPY](https://img.shields.io/badge/-DiscordPY-333333?style=for-the-badge&logo=discord)
+![FastAPI](https://camo.githubusercontent.com/e5bd87a426fc7a9df6f1a8794170955c21da539bc54d824d205cac9a02881a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466173744150492d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d66617374617069)
 
 ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=for-the-badge&logo=csharp)
 
