@@ -9,6 +9,10 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="renaxdev" /> </p>
+  
+[![Years](https://badges.pufler.dev/years/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev)
+[![Repos](https://badges.pufler.dev/repos/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev?tab=repositories)
+[![Monthly Commits](https://badges.pufler.dev/commits/monthly/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev)
 
 ## Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
