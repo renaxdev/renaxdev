@@ -62,6 +62,11 @@
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=for-the-badge&logo=kalilinux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
+  
+## Top.gg
+[![Uranium](https://top.gg/api/widget/806452158044176454.svg)](https://top.gg/bot/806452158044176454)
+  
+[![KEKW](https://top.gg/api/widget/827579418045186119.svg)](https://top.gg/bot/827579418045186119)
 
 <h3 align="left">🔗Notice Board: </h3>
 
