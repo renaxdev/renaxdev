@@ -76,5 +76,5 @@
 
 
 - ✉ Contact Me: renaxdev@outlook.de 
-  [![https://t.me/renaxdev](https://img.shields.io/badge/renaxdev-333333?style=for-the-badge&logo=telegram)]
+  ![https://t.me/renaxbtw](https://img.shields.io/badge/renaxdev-333333?style=for-the-badge&logo=telegram)
 <hr>
