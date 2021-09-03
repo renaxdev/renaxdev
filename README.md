@@ -75,7 +75,5 @@
 - 🔨 Check out my Instagram and Discord. [Instagram](https://www.instagram.com/renax187/) | [Discord](https://discord.gg/gvujeNYAHQ)
 
 
-- ✉ Contact Me: [Click Here](https://discord.gg/gvujeNYAHQ)
--  My Website: [Click Here](https://renaxdev.tech)
-  
+- ✉ Contact Me: renaxdev@outlook.de
 <hr>
