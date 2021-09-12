@@ -27,12 +27,14 @@
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino)
 
 ## 🛠 IDEs
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm)
 ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=for-the-badge&logo=visualstudio)
+![Arduino IDE](https://img.shields.io/badge/-ArduinoIDE-333333?style=for-the-badge&logo=arduino)
 
 ## 🖊 Editors
 
