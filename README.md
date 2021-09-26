@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hey, thanks for coming here. I'm Renax</h1>
 <h3 align="center">I am a "developer" if you really wanna call me one, mostly doing Python, some Arduino stuff and some IoT stuff with Raspberry Pis or other microcontrollers</h3>
-<details>
-  <summary>🏆 Stats</summary>
 <h3 align=left>🏆 Stats<h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaxdev&layout=compact&theme=react" alt="Languages" />
@@ -15,8 +13,6 @@
 [![Years](https://badges.pufler.dev/years/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev)
 [![Repos](https://badges.pufler.dev/repos/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev?tab=repositories)
 [![Monthly Commits](https://badges.pufler.dev/commits/monthly/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev)
-
-  </details>
 
 <details>
   <summary>💬 Languages & Frameworks</summary>
