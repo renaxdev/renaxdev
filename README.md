@@ -85,7 +85,13 @@
   
   [![KEKW](https://top.gg/api/widget/827579418045186119.svg)](https://top.gg/bot/827579418045186119)
 </details>
+
+<details>
+  <summary>👷‍♂️ Current Projects</summary>
   
+  - currently no public projects
+  
+  </details>
 
 - ✉ Contact Me: renaxdev@outlook.de or [Telegram](https://t.me/renaxbtw)
 <hr>
