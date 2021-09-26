@@ -17,6 +17,10 @@
 [![Monthly Commits](https://badges.pufler.dev/commits/monthly/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev)
 
   </details>
+
+<details>
+  <summary>💬 Languages & Frameworks</summary>
+  
   
 ## 💬 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
