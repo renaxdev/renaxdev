@@ -57,16 +57,18 @@
 ![Instagram](https://img.shields.io/badge/-renax187-333333?style=for-the-badge&logo=instagram)
 ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)
 
-## 💻 Operating System
+<details>
+  <summary>💻 Operating System</summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=for-the-badge&logo=kalilinux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
-
+</details>
+  
 <details>
-  <summary>Discord Bots</summary>
+  <summary>🤖 Discord Bots</summary>
   
   [![Uranium](https://top.gg/api/widget/806452158044176454.svg)](https://top.gg/bot/806452158044176454)
   
