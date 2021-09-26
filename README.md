@@ -36,6 +36,7 @@
   
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino)
+  </details>
 
 <details>
   <summary>🛠 Tools </summary>
