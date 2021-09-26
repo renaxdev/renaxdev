@@ -30,7 +30,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino)
 
 <details>
-  <summary>## 🛠 Tools </summary>
+  <summary>🛠 Tools </summary>
+  
 ## 🛠 IDEs
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm)
