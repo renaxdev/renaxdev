@@ -67,6 +67,7 @@
 
 <details>
   <summary>Discord Bots</summary>
+  
   [![Uranium](https://top.gg/api/widget/806452158044176454.svg)](https://top.gg/bot/806452158044176454)
   
   [![KEKW](https://top.gg/api/widget/827579418045186119.svg)](https://top.gg/bot/827579418045186119)
