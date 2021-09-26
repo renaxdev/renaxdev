@@ -29,6 +29,8 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino)
 
+<details>
+  <summary>## 🛠 Tools </summary>
 ## 🛠 IDEs
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm)
@@ -50,13 +52,16 @@
   
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333333?style=for-the-badge&logo=github)
+  </details>
 
-## 👥 Social
+<details>
+  <summary>👥 Social</summary>
 
 ![Discord](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
 ![Instagram](https://img.shields.io/badge/-renax187-333333?style=for-the-badge&logo=instagram)
 ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)
-
+</details>
+  
 <details>
   <summary>💻 Operating System</summary>
 
