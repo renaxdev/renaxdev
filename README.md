@@ -93,5 +93,6 @@
   
   </details>
 
-- ✉ Contact Me: renaxdev@outlook.de or [Telegram](https://t.me/renaxbtw)
+- ✉ Contact Me: renaxdev@outlook.de , [Telegram](https://t.me/renaxbtw) or visist my !(Discord Server)[https://discord.gg/gvujeNYAHQ]
 <hr>
+ 
