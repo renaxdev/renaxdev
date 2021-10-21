@@ -92,7 +92,7 @@
 <details>
   <summary>👷‍♂️ Current Projects</summary>
   
-  - currently no public projects
+  - OpenMagicHome : Python Implementation for Magic Home Wifi LED Controllers
   
   </details>
 
