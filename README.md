@@ -93,6 +93,7 @@
   <summary>👷‍♂️ Current Projects</summary>
   
   - OpenMagicHome : Python Implementation for Magic Home Wifi LED Controllers
+  - ThunderOS : Operating System from Scratch written in Assembly
   
   </details>
 
