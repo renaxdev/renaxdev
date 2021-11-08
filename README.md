@@ -29,9 +29,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-  
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=for-the-badge&logo=nodejs)
   
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=for-the-badge&logo=RaspberryPi)
@@ -93,7 +91,7 @@
   <summary>👷‍♂️ Current Projects</summary>
   
   - OpenMagicHome : Python Implementation for Magic Home Wifi LED Controllers
-  - ThunderOS : Operating System from Scratch written in Assembly
+  - ThunderOS : Operating System
   
   </details>
 
