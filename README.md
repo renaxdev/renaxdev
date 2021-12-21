@@ -91,6 +91,7 @@
 <details>
   <summary>👷‍♂️ Current Projects</summary>
   
+  - Learning React lol
   - OpenMagicHome : Python Implementation for Magic Home Wifi LED Controllers
   - ThunderOS : Operating System
   
