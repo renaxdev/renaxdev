@@ -30,6 +30,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=for-the-badge&logo=nodejs)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=for-the-badge&logo=RaspberryPi)
