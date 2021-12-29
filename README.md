@@ -99,6 +99,6 @@
 
 - ✉ Contact Me: renaxdev@outlook.de , [Telegram](https://t.me/renaxbtw) or visit my ![Discord Server](https://discord.gg/gvujeNYAHQ)
   
-  <a href="https://www.buymeacoffee.com/renaxdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=renaxdev&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff"></a>
+  <a href="https://www.buymeacoffee.com/renaxdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=renaxdev&button_colour=000000&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 <hr>
  
