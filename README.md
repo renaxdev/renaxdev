@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> Hey, thanks for coming here. I'm Renax aka Max</h1>
-<h3 align="center">I am a 14 y/o "developer" from Germany(if you really wanna call me one), mostly doing Python, some Arduino stuff and some IoT stuff with Raspberry Pis or other microcontrollers</h3>
+<h3 align="center">I am a 14 y/o "developer" from Germany(if you really wanna call me one), mostly doing Python, JavaScript and Arduino</h3>
 <h3 align=left>🏆 Stats<h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaxdev&layout=compact&theme=react" alt="Languages" />
