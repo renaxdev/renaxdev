@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> Hey, thanks for coming here. I'm Renax aka Max</h1>
-<h3 align="center">I am a 14 y/o "developer" from Germany(if you really wanna call me one), mostly doing Python, JavaScript and Arduino</h3>
+<h3 align="left">I'm a 15 y/o tech-enthusiast from Germany</h3>
+<h3 align="left">Interested in Webdev, Pentesting and IoT</h3>
 <h3 align=left>🏆 Stats<h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaxdev&layout=compact&theme=react" alt="Languages" />
@@ -36,8 +37,6 @@
   <summary>🛠 Tools </summary>
   
 ## 🛠 IDEs
-
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=for-the-badge&logo=pycharm)
 ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=for-the-badge&logo=visualstudio)
 ![Arduino IDE](https://img.shields.io/badge/-ArduinoIDE-333333?style=for-the-badge&logo=arduino)
@@ -61,7 +60,7 @@
 <details>
   <summary>👥 Social</summary>
 
-![Discord](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
+![Renax#6191](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
 ![Instagram](https://img.shields.io/badge/-renax187-333333?style=for-the-badge&logo=instagram)
 ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)
 </details>
@@ -76,20 +75,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
 </details>
   
-<details>
-  <summary>🤖 Discord Bots</summary>
-  
-  [![Uranium](https://top.gg/api/widget/806452158044176454.svg)](https://top.gg/bot/806452158044176454)
-  
-  [![KEKW](https://top.gg/api/widget/827579418045186119.svg)](https://top.gg/bot/827579418045186119)
-</details>
 
 <details>
   <summary>👷‍♂️ Current Projects</summary>
-   - Smoothify
   </details>
 
-- ✉ Contact Me: renaxdev@outlook.de , [Telegram](https://t.me/renaxbtw) or visit my ![Discord Server](https://discord.gg/gvujeNYAHQ)
+- ✉ Contact Me: renaxdev@outlook.de , [Telegram](https://t.me/renaxbtw)
   
   <a href="https://www.buymeacoffee.com/renaxdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=renaxdev&button_colour=000000&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 <hr>
