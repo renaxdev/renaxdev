@@ -60,7 +60,7 @@
 <details>
   <summary>👥 Social</summary>
 
-![Renax#6191](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
+![renax187](https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord)
 ![Instagram](https://img.shields.io/badge/-renax187-333333?style=for-the-badge&logo=instagram)
 ![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram)
 </details>
@@ -69,7 +69,7 @@
   <summary>💻 Operating System</summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
+![Arch](https://img.shields.io/badge/-Arch-333333?style=for-the-badge&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=for-the-badge&logo=kalilinux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=for-the-badge&logo=windows)
