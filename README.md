@@ -28,7 +28,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=for-the-badge&logo=nodejs)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-  
+![C++](https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c++)
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=for-the-badge&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=for-the-badge&logo=RaspberryPi)
   </details>
