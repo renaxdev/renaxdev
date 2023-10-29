@@ -3,10 +3,10 @@
 <h3 align="left">Interested in Webdev, Pentesting, IoT and Embedded Systems</h3>
 <h3 align=left>🏆 Stats<h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaxdev&layout=compact&theme=react" alt="Languages" />
+  <img src="https://grs-sand.vercel.app/api/top-langs/?username=renaxdev&layout=compact&theme=react" alt="Languages" />
 </p>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=renaxdev&show_icons=true&theme=react" alt="Languages" height="160" />
+    <img src="https://grs-sand.vercel.app/api?username=renaxdev&show_icons=true&theme=react" alt="Languages" height="160" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="renaxdev" /> </p>
