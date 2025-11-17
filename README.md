@@ -8,8 +8,6 @@
 <p align="left">
     <img src="https://grs-sand.vercel.app/api?username=renaxdev&show_icons=true&theme=react" alt="Languages" height="160" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renaxdev&label=Profile%20views&color=0e75b6&style=flat" alt="renaxdev" /> </p>
   
 [![Years](https://badges.pufler.dev/years/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev)
 [![Repos](https://badges.pufler.dev/repos/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev?tab=repositories)
