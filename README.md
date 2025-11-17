@@ -5,13 +5,7 @@
 <p align="left">
   <img src="https://grs-sand.vercel.app/api/top-langs/?username=renaxdev&layout=compact&theme=react" alt="Languages" />
 </p>
-<p align="left">
-    <img src="https://grs-sand.vercel.app/api?username=renaxdev&show_icons=true&theme=react" alt="Languages" height="160" />
-</p>
-  
-[![Years](https://badges.pufler.dev/years/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev)
-[![Repos](https://badges.pufler.dev/repos/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev?tab=repositories)
-[![Monthly Commits](https://badges.pufler.dev/commits/monthly/renaxdev?style=for-the-badge&color=black&logo=github)](https://github.com/renaxdev)
+
 
 <details>
   <summary>💬 Languages & Frameworks</summary>
