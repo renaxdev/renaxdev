@@ -72,7 +72,7 @@
   <summary>👷‍♂️ Current Projects</summary>
   </details>
 
-- ✉ Contact Me: renaxdev@outlook.de , [Telegram](https://t.me/renaxbtw)
+- ✉ Contact Me: me@mkoerner.dev
   
 <hr>
  
